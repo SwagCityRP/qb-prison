@@ -33,19 +33,19 @@ Config.Locations = {
         }
     },
     ["freedom"] = {
-        coords = vector4(1836.37, 2585.33, 45.89, 272.96)
+        coords = vector4(1769.83, 2571.76, 44.73, 137.84)
     },
     ["outside"] = {
-        coords = vector4(1848.13, 2586.05, 45.67, 269.5)
+        coords = vector4(1836.87, 2585.35, 46.01, 269.9)
     },
     ["yard"] = {
-        coords = vector4(1765.67, 2565.91, 45.56, 1.5)
+        coords = vector4(1774.19, 2492.98, 45.74, 120.07)
     },
     ["middle"] = {
-        coords = vector4(1693.33, 2569.51, 45.55, 123.5)
+        coords = vector4(1687.45, 2596.03, 45.56, 93.4)
     },
     ["shop"] = {
-        coords = vector4(1786.19, 2557.77, 45.62, 0.5)
+        coords = vector4(1781.0, 2560.77, 44.67, 176.23)
     },
     spawns = {
         [1] = {
@@ -77,18 +77,14 @@ Config.Locations = {
             coords = vector4(1691.229, 2509.635, 45.564, 52.432)
         },
         [8] = {
-            animation = "finger2",
-            coords = vector4(1770.59, 2536.064, 45.564, 258.113)
-        },
-        [9] = {
             animation = "smoke",
             coords = vector4(1792.45, 2584.37, 45.56, 276.24)
         },
-        [10] = {
+        [9] = {
             animation = "smoke",
             coords = vector4(1768.33, 2566.08, 45.56, 176.83)
         },
-        [11] = {
+        [10] = {
             animation = "smoke",
             coords = vector4(1696.09, 2469.4, 45.56, 1.4)
         }
